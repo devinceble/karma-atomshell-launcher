@@ -2,6 +2,18 @@
 
 > Launcher for Github Atom-Shell
 
+# TODO
+- [x] Linux Support
+- [] Atom Shell App For Linux/Windows/Darwin Pre Built or Make One Your Self See Eg. Bellow
+- [] Windows Support
+- [] Darwin Support
+I think its easy to create atom-shell app for testing on all platforms but I don't have time for now :-)
+
+Install
+```bash
+  $ npm install karma-atomshell-launcher --save-dev
+```
+
 Create a simple atom-shell application and Make it the default_app
 
 Rename atom binary to karma-atom

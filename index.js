@@ -5,11 +5,13 @@ var AtomShell = function(baseBrowserDecorator, args) {
 
   var flags = args.flags || [];
 
+};
+
 AtomShell.prototype = {
-  name: 'Chrome',
+  name: 'AtomShell',
 
   DEFAULT_CMD: {
-    linux: './app/atom',
+    linux: 'karma-atom'
   },
   ENV_CMD: 'ATOMSHELL_BIN'
 };

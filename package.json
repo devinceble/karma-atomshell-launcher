@@ -1,6 +1,6 @@
 {
   "name": "karma-atomshell-launcher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Karma plugin. Launcher for Atom-Shell.",
   "main": "index.js",
   "scripts": {
@@ -13,12 +13,11 @@
   "keywords": [
     "karma-plugin",
     "karma-launcher",
-    "chrome"
+    "atom-shell"
   ],
   "author": "Leivince John D. Marte <devinceble@gmail.com>",
-  "dependencies": {},
   "peerDependencies": {
     "karma": ">=0.9.3"
   },
-  "license": "MIT",
+  "license": "MIT"
 }

@@ -16,9 +16,8 @@
     "chrome"
   ],
   "author": "Leivince John D. Marte <devinceble@gmail.com>",
-  "dependencies": {},
   "peerDependencies": {
     "karma": ">=0.9.3"
   },
-  "license": "MIT",
+  "license": "MIT"
 }

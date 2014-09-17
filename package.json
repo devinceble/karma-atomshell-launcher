@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git://github.com/devinceble/karma-atomshell-launcher.git"
   },
   "keywords": [
     "karma-plugin",
